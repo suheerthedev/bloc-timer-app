@@ -1,4 +1,4 @@
-import 'package:bloc_timer_app/timer/timer.dart';
+import 'package:bloc_timer_app/timer/view/timer_page.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
