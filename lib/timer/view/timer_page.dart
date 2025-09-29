@@ -26,7 +26,7 @@ class TimerView extends StatelessWidget {
           'Flutter Timer',
           style: TextStyle(color: Colors.white),
         ),
-        backgroundColor: Colors.teal,
+        backgroundColor: Colors.blue,
       ),
       body: Stack(
         children: [

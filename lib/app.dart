@@ -9,7 +9,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'Bloc Timer App',
       theme: ThemeData(
-        colorScheme: const ColorScheme.light(primary: Colors.teal),
+        colorScheme: const ColorScheme.light(primary: Colors.blue),
       ),
       home: const TimerPage(),
     );
